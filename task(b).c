@@ -43,7 +43,7 @@ int main(void) {
             x = 0;
         }
 
-        else
+        if !(P1->IN & BIT1)
         {
              P1->OUT &= ~BIT0;
              x = 1;
@@ -56,7 +56,7 @@ int main(void) {
             y = 0;
         }
 
-        else
+        if !(P1->IN & BIT4)
         {
              P2->OUT &= ~BIT0;
              y = 1;
