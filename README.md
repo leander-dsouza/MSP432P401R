@@ -1,2 +1,2 @@
 # MSP432P401R
-Lab MBSD Codes
+MBSD Lab Codes
