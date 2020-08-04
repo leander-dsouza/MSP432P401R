@@ -8,7 +8,7 @@
 
 [**Example 5.2**](https://github.com/leander-dsouza/MSP432P401R/blob/master/Keil/LAB%205/Example5.2.s)
 
-* Write an assembly language programming to send the data value from register to memory location and load it back from different address of any specified memory after performing athematic operation in a loop.
+* Write an assembly language programming to send the data value from register to memory location and load it back from different address of any specified memory after performing arithmetic operation in a loop.
 
 ### EXERCISES
 
